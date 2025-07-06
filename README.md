@@ -63,12 +63,15 @@ A complete Retrieval-Augmented Generation (RAG) system for business question-ans
    ```
 
 4. **Required Environment Variables**
+   Create a `.env` file in the project root with your actual API keys:
    ```env
-   OPENAI_API_KEY=your_openai_api_key_here
-   PINECONE_API_KEY=your_pinecone_api_key_here
+   OPENAI_API_KEY=your_actual_openai_api_key_here
+   PINECONE_API_KEY=your_actual_pinecone_api_key_here
    PINECONE_ENVIRONMENT=your_pinecone_environment
    PINECONE_INDEX_NAME=business-knowledge-base
    ```
+
+   ⚠️ **Security Note**: Never commit your `.env` file to version control. The `.gitignore` file is configured to exclude it.
 
 ## 🎯 Quick Start
 
