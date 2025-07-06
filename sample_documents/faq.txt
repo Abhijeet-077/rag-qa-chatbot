@@ -1,0 +1,15 @@
+
+        Frequently Asked Questions
+        
+        Q: How do I reset my password?
+        A: Click on 'Forgot Password' on the login page and follow the instructions sent to your email.
+        
+        Q: What are the system requirements?
+        A: Windows 10 or macOS 10.14+, 8GB RAM, 2GB free disk space, internet connection.
+        
+        Q: How do I contact support?
+        A: You can reach support at support@company.com or call 1-800-SUPPORT.
+        
+        Q: What payment methods do you accept?
+        A: We accept all major credit cards, PayPal, and bank transfers.
+        
